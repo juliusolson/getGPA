@@ -1,0 +1,16 @@
+{
+  "name": "getgpa",
+  "version": "1.0.0",
+  "description": "KTH GPA scrape",
+  "main": "getGPA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node getGPA.js"
+  },
+  "author": "Julius Olson",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^2.1.1"
+  }
+}
