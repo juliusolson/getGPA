@@ -1,3 +1,7 @@
+
+A simple script that scrapes courses from Ladok and calculates the GPA. Due to js rendering, puppeteer is utilized as a headless browser.
+
+
 ## Installation
 
 ```
